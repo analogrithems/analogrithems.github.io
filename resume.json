@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Aaron Collins",
+    "label": "Programmer",
+    "picture": "",
+    "email": "aaron.collinsa@gmail.com",
+    "phone": "(808) 203-8756",
+    "website": "http://resume.crypto.sh",
+    "summary": "I have 20 years of experience in programming, security and C.I.C.D. automation.  I spent the last 10 years automating large scale cloud infrastructures.  I’ve mastered several configuration as code methods to accomplish stable highly available networks. I really enjoy creating automated tools for reducing the push, test deploy feedback loop with automated monitoring and notifications.",
+    "location": {
+      "address": "47-531 Waipaipai St.",
+      "postalCode": "96744",
+      "city": "Kaneohe",
+      "countryCode": "US",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "analogrithems",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "analogrithems",
+        "url": "https://github.com/analogrithems"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Chegg",
+      "position": "Sr. Devops",
+      "website": "https://www.chegg.com",
+      "startDate": "2015-08-03",
+      "endDate": "2018-03-02",
+      "summary": "Responsible for implementing software defined infrastructure, training Jr. engineers and researching new infrastructure goals.  Developed automated jobs to deploy code and manage infrastructure. Additionally helped marketing team implement highly available blog platform and engineering team debug performance issues.",
+      "highlights": [
+        "Developed identity management solution to grant access to 1k developers across 2500 hosts",
+        "Developed automated monitoring and provisioning system to aid in auto-scale",
+        "Created and managed docker clusters via Spotinst and ECS to lead effort in moving from virtual servers to containers",
+        "Created base images and deployment tools to deploy new applications to containers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CompTIA Security+",
+      "area": "CompTIA Security+ meets the ISO 17024 standard and is approved by U.S. Department of Defense to fulfill Directive 8570.01-M requirements. Technology",
+      "studyType": "",
+      "startDate": "February 03 2010",
+      "endDate": "Never",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "AWS",
+      "area": "AWS Certified Developer",
+      "studyType": "Associate",
+      "startDate": "November 30, 2017",
+      "endDate": "November 30, 2019",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Boeing Excellence award ",
+      "date": "2009",
+      "awarder": "Boeing",
+      "summary": "Granted for my effort in training the staff and developing a new fibre infrastrucgure"
+    },
+    {
+      "title": "Boeing Excellence award ",
+      "date": "2010",
+      "awarder": "Boeing",
+      "summary": "Granted for my efforts to develop a new Observatory control system"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Devops",
+      "level": "Master",
+      "keywords": [
+        "Terraform",
+        "Chef",
+        "Puppet",
+        "Ansible",
+        "Cloudformation",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "Javascript / Ecmascript",
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Master",
+      "keywords": [
+        "Vulnerability Scanning",
+        "Pen Testing",
+        "PCI, HIPAA, SOX Certification"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "C++",
+        "Python",
+        "Perl",
+        "PHP",
+        "Java"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Tim Galyean <timg@chegg.com>",
+      "reference": "Sr. Devops Engineer & Sr. Security Engineer at Chegg"
+    },
+    {
+      "name": "Alex Boatwright <drdelambre@gmail.com>",
+      "reference": "Lead Developer / Co-Worker for ActivityRez"
+    },
+    {
+      "name": "Patrick Leonard <dreamtear@gmail.com>",
+      "reference": "Developer for ActivityRez & Chegg Inc"
+    },
+    {
+      "name": "Josh Hancock <josheightysix@gmail.com>",
+      "reference": "Partner Unity Crayons & Downbeat Diner"
+    }
+  ]
+}
