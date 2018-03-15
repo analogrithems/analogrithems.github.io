@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Aaron Collins",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Developer, Security, Operations Engineer",
+    "picture": "https://lh3.googleusercontent.com/VolhpuJT7IQQYNM2ThFtycPwyqe1IryvW9rsGxCYRxxdsb0YhvY9Vnsu8hWlfFzSk-sbfCcq7NxNFDQ=w352-h352-n-o-rw",
     "email": "aaron.collinsa@gmail.com",
     "phone": "(808) 203-8756",
     "website": "http://resume.crypto.sh",
-    "summary": "I have 20 years of experience in programming, security and C.I.C.D. automation.  I spent the last 10 years automating large scale cloud infrastructures.  I’ve mastered several configuration as code methods to accomplish stable highly available networks. I really enjoy creating automated tools for reducing the push, test deploy feedback loop with automated monitoring and notifications.",
+    "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. piplines or auditing security and training other engineers best practices.",
     "location": {
       "address": "47-531 Waipaipai St.",
       "postalCode": "96744",
@@ -34,9 +34,9 @@
       "website": "https://www.chegg.com",
       "startDate": "2015-08-03",
       "endDate": "2018-03-02",
-      "summary": "Responsible for implementing software defined infrastructure, training Jr. engineers and researching new infrastructure goals.  Developed automated jobs to deploy code and manage infrastructure. Additionally helped marketing team implement highly available blog platform and engineering team debug performance issues.",
+      "summary": "Responsible for implementing software defined infrastructure, training Jr. engineers and researching new infrastructure goals.  Developed automated jobs to deploy code and manage infrastructure. Helped marketing team implement  blog platform and assisted engineering team debug performance issues.",
       "highlights": [
-        "Developed identity management solution to grant access to 1k developers across 2500 hosts",
+        "Deployed identity management solution to grant access to 1k developers across 2500 hosts",
         "Developed automated monitoring and provisioning system to aid in auto-scale",
         "Created and managed docker clusters via Spotinst and ECS to lead effort in moving from virtual servers to containers",
         "Created base images and deployment tools to deploy new applications to containers"
@@ -48,12 +48,13 @@
       "website": "http://www.activityrez.com",
       "startDate": "2012-02-01",
       "endDate": "2015-08-03",
-      "summary": "As Technical director and lead developer I built a team and complete enterprise level activity reservation and booking system.  The product immediately got the attention of the travel industries top players including Expedia, Disney, Pleasant Holidays, AAA etc.  The system was designed as a SaSS product and featured a suite of tools for both mobile and desktop productivity. I was responsible for increasing revenue 1000% in 2012",
+      "summary": "As Technical director and lead developer, I built a team and created an enterprise level activity reservation and booking system.  The product immediately got the attention of the travel industries top players including Expedia, Disney, Pleasant Holidays, AAA etc.  The system was designed as a SaSS product and featured a suite of tools for both mobile and desktop productivity. I was responsible for increasing revenue 1000% in 2012.",
       "highlights": [
         "Personally responsible for getting company PCI/DSS Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
         "Created and soley managed entire auto-scaling infrastructure in the cloud (Chef and autoscale groups).",
         "Developed global enterprise activity booking and reservation system for web and mobile",
-        "Built and managed build pipline for all product lines git, jenkins, gradle and xcode"
+        "Built and managed build pipline for all product lines git, jenkins, gradle and xcode",
+        "Built container clusters to run customer facing web apps for each env"
       ]
     },
     {
@@ -66,10 +67,10 @@
       "highlights": [
         "Rebuilt and standardized network infrastructure across all islands and migrated corporate network to AWS cloud.",
         "Personally responsible for getting company PCI/DSS SAQ-D Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
-        "Trained IT Team on how to manage POS systems and support accoutning and ERP services",
+        "Trained IT Team on how to manage POS systems and support accounting and ERP services",
         "Developed multiple ecommerce sites using C#, Java and PHP",
         "Implemented company first change control program.",
-        "Created company first cicd build pipline with jenkins and git"
+        "Created company first build pipline with jenkins and git"
       ]
     },
     {
@@ -87,7 +88,7 @@
       "website": "http://www.ehawaii.gov",
       "startDate": "2004-04-01",
       "endDate": "2008-08-01",
-      "summary": "Originally hired as the release engineer for the State of Hawaii web portal Honolulu.gov.  I was quickly put in charge of managing all operations projects.  As I advanced the network to a stable enterprise state I was then put in charge of managing all security projects.  This included certifying the infrastructure against HIPAA, SOX, PCI/DSS.  Developed documentation portal using MediaWiki + LDAP Auth to keep all docs current.  As the systems analyst I designed and managed a high availability Linux based Apache/Tomcat web farm. Managed and configured Cisco Switches and Firewalls. Developed web applications using PHP, Perl and Java.  Due to their high traffic I later had to implement db caching with Memcache and PHP caching with APC.  Administered Oracle and MySQL database servers.  Did IDS monitoring and vulnerability scanning/mitigation. Created SNMP based usage trend analysis to predict upgrade budget requirements.",
+      "summary": "Originally hired as the release engineer for the State of Hawaii web portal Honolulu.gov.  I was quickly put in charge of managing all operations projects.  As I advanced the network to a stable enterprise state, I was then put in charge of managing all security projects.  This included certifying the infrastructure against HIPAA, SOX, PCI/DSS.  Developed documentation portal using MediaWiki + LDAP Auth to keep all docs current.  As the systems analyst I designed and managed a high availability Linux based Apache/Tomcat web farm. Managed and configured Cisco Switches and Firewalls. Developed web applications using PHP, Perl and Java.  Due to their high traffic I later had to implement db caching with Memcache and PHP caching with APC.  Administered Oracle and MySQL database servers.  Did IDS monitoring and vulnerability scanning/mitigation. Created SNMP based usage trend analysis to predict upgrade budget requirements.",
       "highlights": []
     },
     {
@@ -96,7 +97,7 @@
       "website": "https://developmentguru.com/",
       "startDate": "2003-02-01",
       "endDate": "2005-09-01",
-      "summary": "Did onsite consulting for clients to manage and lockdown networks.  Performed Novell to Windows migrations.  Created managed turnkey firewalls for client sites that allowed for remote administration.  Administered Windows 2000 Active Directory implementations for 10K users.  Developed BSD NIS support in C for Samaba Project.  Managed all IT projects for clients.  Developed meta directory applications in Perl and C. Wrote Meta Directory White Papers.  Developed automated desktop re-image software solution. Configured and managed Sonicwall Firewalls and Cisco Routers and Switches. Did on call 24/7 Support.  Did IDS monitoring and vulnerability scanning/mitigation.",
+      "summary": "I did onsite consulting for clients to manage and lockdown networks.  Performed Novell to Windows migrations.  Created managed turnkey firewalls for client sites that allowed for remote administration.  Administered Windows 2000 Active Directory implementations for 10K users.  Developed BSD NIS support in C for Samaba Project.  Managed all IT projects for clients.  Developed meta directory applications in Perl and C. Wrote Meta Directory White Papers.  Developed automated desktop re-image software solution. Configured and managed Sonicwall Firewalls and Cisco Routers and Switches. I did on call 24/7 Support as well as IDS monitoring and vulnerability scanning/mitigation.",
       "highlights": []
     },
     {
@@ -105,7 +106,7 @@
       "website": "https://www.mygtc.com",
       "startDate": "2001-08-01",
       "endDate": "2002-12-01",
-      "summary": "Was relocated to California at the age of 19 to rescue failing Internet Service.  Within 6 months I had taken the ISP from 5k to 20k customers.  Developed companies Disaster recovery policy and network security policy.  Developed secure redundant firewalls, enterprise class LDAP infrastructure to manage all customers, customer web portal (using SSO via the previously mentioned LDAP) and custom AOL style signup CD.",
+      "summary": "I was relocated to California at the age of 19 to rescue a failing Internet Service.  Within 6 months I had taken the ISP from 5k to 20k customers.  Developed companies Disaster recovery policy and network security policy.  Developed secure redundant firewalls, enterprise class LDAP infrastructure to manage all customers, customer web portal (using SSO via the previously mentioned LDAP) and custom AOL style signup CD.",
       "highlights": [
         "Created customer support training guides",
         "Performed security awareness training for handling customer credit cards",
@@ -118,7 +119,7 @@
       "website": "",
       "startDate": "1998-03-01",
       "endDate": "2001-06-01",
-      "summary": "Starting in tech support I quickly rose and became manager of tech support and systems administrator for large ISP.  I administered Linux, Windows and Solaris servers. Managed Apache and IIS web farms.  Installed and managed internal exchange server as well as customer sendmail/postfix servers.  Trained and managed entire tech support staff.  Developed billing software in Perl and C.  Managed Cisco Routers and configured ATM circuits for DSL.",
+      "summary": "Starting in tech support I quickly became the manager of tech support and the systems administrator for a large ISP.  I administered Linux, Windows and Solaris servers. Managed Apache and IIS web farms.  Installed and managed the internal exchange server as well as customer sendmail/postfix servers.  Trained and managed entire tech support staff.  Developed billing software in Perl and C.  Managed Cisco Routers and configured ATM circuits for DSL.",
       "highlights": []
     }
   ],
@@ -148,7 +149,7 @@
       "title": "Boeing Excellence award ",
       "date": "2008-11-11",
       "awarder": "Boeing",
-      "summary": "Granted for my effort in training the staff and developing a new fibre infrastrucgure"
+      "summary": "Granted for my effort in training the staff and developing a new fibre infrastructure"
     },
     {
       "title": "Boeing Excellence award ",
