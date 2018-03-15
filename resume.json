@@ -1,0 +1,287 @@
+{
+  "basics": {
+    "name": "Aaron Collins",
+    "label": "Developer, Security, Operations Engineer",
+    "picture": "https://lh3.googleusercontent.com/VolhpuJT7IQQYNM2ThFtycPwyqe1IryvW9rsGxCYRxxdsb0YhvY9Vnsu8hWlfFzSk-sbfCcq7NxNFDQ=w352-h352-n-o-rw",
+    "email": "aaron.collinsa@gmail.com",
+    "phone": "(808) 203-8756",
+    "website": "http://resume.crypto.sh",
+    "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. piplines or auditing security and training other engineers best practices.",
+    "location": {
+      "address": "47-531 Waipaipai St.",
+      "postalCode": "96744",
+      "city": "Kaneohe",
+      "countryCode": "US",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "analogrithems",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "analogrithems",
+        "url": "https://github.com/analogrithems"
+      },
+      {
+        "network": "LInkedIn",
+        "username": "aaroncollins42",
+        "url": "https://www.linkedin.com/in/aaroncollins42/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Chegg",
+      "position": "Sr. Devops",
+      "website": "https://www.chegg.com",
+      "startDate": "2015-08-03",
+      "endDate": "2018-03-02",
+      "summary": "Responsible for implementing software defined infrastructure, training Jr. engineers and researching new infrastructure goals.  Developed automated jobs to deploy code and manage infrastructure. Helped marketing team implement  blog platform and assisted engineering team debug performance issues.",
+      "highlights": [
+        "Deployed identity management solution to grant access to 1k developers across 2500 hosts",
+        "Developed automated monitoring and provisioning system to aid in auto-scale",
+        "Created and managed docker clusters via Spotinst and ECS to lead effort in moving from virtual servers to containers",
+        "Created base images and deployment tools to deploy new applications to containers",
+        "Acted as monitoring evangelist giving lots of presentations and doing lots of personal training"
+      ]
+    },
+    {
+      "company": "ActivityRez",
+      "position": "Technical Director / Lead Developer",
+      "website": "http://www.activityrez.com",
+      "startDate": "2012-02-01",
+      "endDate": "2015-08-03",
+      "summary": "As Technical director and lead developer, I built a team and created an enterprise level activity reservation and booking system.  The product immediately got the attention of the travel industries top players including Expedia, Disney, Pleasant Holidays, AAA etc.  The system was designed as a SaSS product and featured a suite of tools for both mobile and desktop productivity. I was responsible for increasing revenue 1000% in 2012.",
+      "highlights": [
+        "Personally responsible for getting company PCI/DSS Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
+        "Created and soley managed entire auto-scaling infrastructure in the cloud (Chef and autoscale groups).",
+        "Developed global enterprise activity booking and reservation system for web and mobile",
+        "Built and managed build pipline for all product lines git, jenkins, gradle and xcode",
+        "Built container clusters to run customer facing web apps for each env"
+      ]
+    },
+    {
+      "company": "Hilo Hattie",
+      "position": "IT Manager/Software Engineer",
+      "website": "https://www.hilohattie.com/",
+      "startDate": "2010-07-01",
+      "endDate": "2012-02-01",
+      "summary": "As It Manager and Staff Software engineer I was responsile for several critical services for the company. The company was coming out of bankruptcy and I was hired to train new staff, build a new ecommerce site and get the corporate network infrastrucutre modernized and under budget.",
+      "highlights": [
+        "Rebuilt and standardized network infrastructure across all islands and migrated corporate network to AWS cloud.",
+        "Personally responsible for getting company PCI/DSS SAQ-D Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
+        "Trained IT Team on how to manage POS systems and support accounting and ERP services",
+        "Developed multiple ecommerce sites using C#, Java and PHP",
+        "Implemented company first change control program.",
+        "Created company first build pipline with jenkins, maven and git"
+      ]
+    },
+    {
+      "company": "Computer Science Corporation",
+      "position": "Lead IT Engineer/Programmer",
+      "website": "http://www.csc.com",
+      "startDate": "2008-08-01",
+      "endDate": "2010-07-01",
+      "summary": "Took a troubled observatory and turned it around by training the existing IT team and teaching them the skills to administer the legacy Irix/Solaris/Linux infrastructure. Then got to work on modernizing the site. Designed and implemented a modern Linux/Windows infrastructure with emphasis on stability and security. Implemented enterprise LDAP infrastructure to manage systems. Wrote first ever site infrastructure documentation (War book).  Upgraded and re-baselined all Switches, Routers and Firewalls.  Got site Airforce EITDR certified (Security Requirement). Received multiple awards for my work from the Airforce, Boeing and CSC.  ",
+      "highlights": [
+        "Obtained DOD TS Clearance",
+        "Updated and secured entire site network.",
+        "Developed an opensource LDAP management webapp to manage provisioning users and password policy for entire site",
+        "I was hand picked by the Air Force to design new Space Program Observatory Control Kit (S.P.O.C.K.) in C++ & QT.  ",
+        "Created new build and release systems for mine and other engineering teams apps",
+        "Was sent to other Air Force Bases to implement my software",
+        "Setup sites first monitoring service and trained staff on monitoring and updating it",
+        "Got Security+ certified"
+      ]
+    },
+    {
+      "company": "HIC",
+      "position": "Senior Systems Analyst and Security Analyst",
+      "website": "http://www.ehawaii.gov",
+      "startDate": "2004-04-01",
+      "endDate": "2008-08-01",
+      "summary": "Originally hired as the release engineer for the State of Hawaii web portal ehawaii.gov.  I was quickly put in charge of managing all operations projects.  As I advanced the network to a stable enterprise state, I was then put in charge of managing all security projects.  This included certifying the infrastructure against HIPAA, SOX, PCI/DSS.  Developed documentation portal using MediaWiki + LDAP Auth to keep all docs current.  As the systems analyst I designed and managed a high availability Linux based Apache/Tomcat web farm. Managed and secured routers and firewalls (BPG & OSPF).",
+      "highlights": [
+        "Developed Ant & Maven build and release scripts",
+        "Performed security audit of entire network",
+        "Patched and updated entire infrastructure",
+        "Created fault tolerant site with load balanced backup site",
+        "Created custom corporate security tools to audit and alert for other state sites (Won company award for this work)",
+        "Created SNMP based usage trend analysis to predict upgrade budget requirements",
+        "Developed web applications using PHP, Perl and Java",
+        "Administered Oracle and MySQL database servers"
+      ]
+    },
+    {
+      "company": "Development Guru",
+      "position": "Consultant",
+      "website": "https://developmentguru.com/",
+      "startDate": "2003-02-01",
+      "endDate": "2005-09-01",
+      "summary": "I did onsite consulting for clients to manage and lockdown networks.  Performed Novell to Windows migrations.  Created managed turnkey firewalls for client sites that allowed for remote administration.  Administered Windows 2000 Active Directory implementations for 10K users.  Developed BSD NIS support in C for Samaba Project.  Managed all IT projects for clients.  Developed meta directory applications in Perl and C. Wrote Meta Directory White Papers.  Developed automated desktop re-image software solution. Configured and managed Sonicwall Firewalls and Cisco Routers and Switches. I did on call 24/7 Support as well as IDS monitoring and vulnerability scanning/mitigation.",
+      "highlights": []
+    },
+    {
+      "company": "GTC Telecom",
+      "position": "Lead Internet Infrastructure Engineer",
+      "website": "https://www.mygtc.com",
+      "startDate": "2001-08-01",
+      "endDate": "2002-12-01",
+      "summary": "I was relocated to California at the age of 19 to rescue a failing Internet Service.  Within 6 months I had taken the ISP from 5k to 20k customers.  Developed companies Disaster recovery policy and network security policy.  Developed secure redundant firewalls, enterprise class LDAP infrastructure to manage all customers, customer web portal (using SSO via the previously mentioned LDAP) and custom AOL style signup CD.",
+      "highlights": [
+        "Created customer support training guides",
+        "Performed security awareness training for handling customer credit cards",
+        "Built company first VMWare cloud cluster to manage ISP and make it highly available."
+      ]
+    },
+    {
+      "company": "Dancris Telecom",
+      "position": "Network Administrator, Tech Support Manager",
+      "website": "",
+      "startDate": "1998-03-01",
+      "endDate": "2001-06-01",
+      "summary": "Starting in tech support I quickly became the manager of tech support and the systems administrator for a large ISP.  I administered Linux, Windows and Solaris servers. Managed Apache and IIS web farms.  Installed and managed the internal exchange server as well as customer sendmail/postfix servers.  Trained and managed entire tech support staff.  Developed billing software in Perl and C.  Managed Cisco Routers and configured ATM circuits for DSL.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CompTIA Security+",
+      "area": "Meets the ISO 17024 standard and is approved by U.S. Department of Defense to fulfill Directive 8570.01-M requirements.",
+      "studyType": "",
+      "startDate": "2010-02-03",
+      "endDate": "2010-02-03",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "AWS",
+      "area": "AWS Certified Developer",
+      "studyType": "Associate",
+      "startDate": "2017-11-30",
+      "endDate": "2019-11-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Boeing Excellence award ",
+      "date": "2008-11-11",
+      "awarder": "Boeing",
+      "summary": "Granted for my effort in training the staff and developing a new fibre infrastructure"
+    },
+    {
+      "title": "Boeing Excellence award ",
+      "date": "2012-03-10",
+      "awarder": "Boeing",
+      "summary": "Granted for my efforts to develop a new Observatory control system"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Devops",
+      "level": "Master",
+      "keywords": [
+        "Terraform",
+        "Chef",
+        "Puppet",
+        "Frycook",
+        "Cloudformation",
+        "Jenkins",
+        "Rundeck"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Senior",
+      "keywords": [
+        "HTML",
+        "Javascript / Ecmascript",
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Master",
+      "keywords": [
+        "Vulnerability Scanning",
+        "Pen Testing",
+        "PCI, HIPAA, SOX Certification"
+      ]
+    },
+    {
+      "name": "Release Engineer",
+      "level": "Senior",
+      "keywords": [
+        "Gradle",
+        "Ant",
+        "Maven",
+        "Grunt",
+        "Composer",
+        "C.I.C.D. (Jenkins, Gitlab, Travis Ci, Rundeck)",
+        "Make",
+        "QMake"
+      ]
+    },
+    {
+      "name": "Cloud Architect",
+      "level": "Senior",
+      "keywords": [
+        "Amazon Web Services (Certified)",
+        "Google Compute Engine",
+        "VMWare",
+        "Heroku"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Home Automation",
+      "keywords": [
+        "Smarthings",
+        "ZWave",
+        "Zigbee",
+        "Sonoff"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Tensorflow",
+        "Fast.ai",
+        "Convolutional neural networks"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Tim Galyean <timg@chegg.com>",
+      "reference": "Sr. Devops Engineer & Sr. Security Engineer at Chegg"
+    },
+    {
+      "name": "Alex Boatwright <drdelambre@gmail.com>",
+      "reference": "Lead Developer / Co-Worker for ActivityRez"
+    },
+    {
+      "name": "Patrick Leonard <dreamtear@gmail.com>",
+      "reference": "Developer for ActivityRez & Chegg Inc"
+    },
+    {
+      "name": "Josh Hancock <josheightysix@gmail.com>",
+      "reference": "Partner Unity Crayons & Downbeat Diner"
+    }
+  ]
+}
