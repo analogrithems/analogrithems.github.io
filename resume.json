@@ -44,7 +44,7 @@
         "Deployed identity management solution to grant access to 1k developers across 2500 hosts",
         "Developed automated monitoring and provisioning system to aid in auto-scale",
         "Created and managed docker clusters via Spotinst and ECS to lead effort in moving from virtual servers to containers",
-        "Created base images and deployment tools to deploy new applications to containers"
+        "Created base images and deployment tools to deploy new applications to containers."
       ]
     },
     {
