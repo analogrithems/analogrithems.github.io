@@ -59,7 +59,7 @@
         "Personally responsible for getting company PCI/DSS Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
         "Created and soley managed entire auto-scaling infrastructure in the cloud (Chef and autoscale groups).",
         "Developed global enterprise activity booking and reservation system for web and mobile",
-        "Built and managed build pipline for all product lines git, jenkins, gradle and xcode",
+        "Built and managed build pipeline for all product lines git, Jenkins, Gradle and xCode",
         "Built container clusters to run customer facing web apps for each env"
       ]
     },
@@ -69,14 +69,14 @@
       "website": "https://www.hilohattie.com/",
       "startDate": "2010-07-01",
       "endDate": "2012-02-01",
-      "summary": "As It Manager and Staff Software engineer I was responsile for several critical services for the company. The company was coming out of bankruptcy and I was hired to train new staff, build a new ecommerce site and get the corporate network infrastrucutre modernized and under budget.",
+      "summary": "As It Manager and Staff Software engineer I was responsible for several critical services for the company. The company was coming out of bankruptcy and I was hired to train new staff, build a new e-commerce site and get the corporate network infrastructure modernized and under budget.",
       "highlights": [
         "Rebuilt and standardized network infrastructure across all islands and migrated corporate network to AWS cloud.",
         "Personally responsible for getting company PCI/DSS SAQ-D Compliant (Wrote Policies & Procedures, Created Security Awareness Training, Completed QSA Audit & Pentest Audits)",
         "Trained IT Team on how to manage POS systems and support accounting and ERP services",
         "Developed multiple ecommerce sites using C#, Java and PHP",
         "Implemented company first change control program.",
-        "Created company first build pipline with jenkins, maven and git"
+        "Created company first build pipeline with Jenkins, Maven and git"
       ]
     },
     {
