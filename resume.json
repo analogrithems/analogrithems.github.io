@@ -6,7 +6,7 @@
     "email": "aaron.collinsa@gmail.com",
     "phone": "(808) 203-8756",
     "website": "http://resume.crypto.sh",
-    "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. piplines or auditing security and training other engineers best practices.",
+    "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. pipelines or auditing security and training other engineers best practices.",
     "location": {
       "address": "47-531 Waipaipai St.",
       "postalCode": "96744",
@@ -238,6 +238,17 @@
         "Google Compute Engine",
         "VMWare",
         "Heroku"
+      ]
+    },
+    {
+      "name": "Containerization",
+      "level": "Senior",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "ECS",
+        "GKE",
+        "Nomad"
       ]
     }
   ],
