@@ -34,6 +34,24 @@
   },
   "work": [
     {
+      "company": "Mya Systems",
+      "position": "Sr. Devops",
+      "website": "https://www.mya.com",
+      "startDate": "2018-04-30",
+      "endDate": "Current",
+      "summary": "Responsible for making the entire infrastructure as code using Terraform",
+      "highlights": [
+        "Created a custom secret manager for use in terraform",
+        "Developed a CircleCi pipeline for infrastructure changes",
+        "Managed all CircleCi pipeline for applications",
+        "Developed very tightly scoped roles for each service",
+        "Setup all montoring and stat collection services",
+        "Trained engineers on best practices; regularly gave presentations and handson workshops",
+        "Insured entire cloud infrastructure used encryption for at rest and in transit data"
+        "Led migration to ECS from Kubernetes to better meet companies goals and better integrate with AWS Cloud services"
+      ]
+    },
+    {
       "company": "Chegg",
       "position": "Sr. Devops",
       "website": "https://www.chegg.com",
