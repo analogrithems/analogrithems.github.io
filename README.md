@@ -4,4 +4,3 @@ This resume is built with https://jsonresume.org and makes uses of the gitlab ci
 
 
 
-Test 2
