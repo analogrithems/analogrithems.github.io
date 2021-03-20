@@ -35,15 +35,14 @@
   "work": [
     {
       "company": "Mya Systems",
-      "position": "Sr. Devops",
+      "position": "Sr. Staff DevOps Engineer",
       "website": "https://www.mya.com",
       "startDate": "2018-04-30",
       "endDate": "Current",
-      "summary": "Responsible for making the entire infrastructure as code using Terraform",
+      "summary": "Responsible for making the entire infrastructure as code using Terraform and all CICD pipelines",
       "highlights": [
-        "Created a custom secret manager for use in terraform",
-        "Developed a CircleCi pipeline for infrastructure changes",
-        "Managed all CircleCi pipeline for applications",
+        "Developed an OpenSource terraform management toolkit https://github.com/analogrithems/reform",
+        "Designed and built all CICD pipelines with custom framework",
         "Developed tightly scoped roles for each service",
         "Setup all montoring and stat collection services",
         "Trained engineers on best practices; regularly gave presentations and hands-on workshops",
