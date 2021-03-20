@@ -2,6 +2,3 @@
 
 This resume is built with https://jsonresume.org and makes uses of the gitlab cicd to update it remotely.
 
-
-
-finally this worked.
