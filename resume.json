@@ -5,7 +5,6 @@
     "picture": "https://lh3.googleusercontent.com/VolhpuJT7IQQYNM2ThFtycPwyqe1IryvW9rsGxCYRxxdsb0YhvY9Vnsu8hWlfFzSk-sbfCcq7NxNFDQ=w352-h352-n-o-rw",
     "email": "aaron.collinsa@gmail.com",
     "phone": "(808) 203-8756",
-    "website": "http://resume.crypto.sh",
     "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. pipelines or auditing security and training other engineers best practices.",
     "location": {
       "address": "47-531 Waipaipai St.",
@@ -39,15 +38,14 @@
       "website": "https://www.mya.com",
       "startDate": "2018-04-30",
       "endDate": "Current",
-      "summary": "Responsible for making the entire infrastructure as code using Terraform and all CICD pipelines",
+      "summary": "Designed entire cloud infrastructure with Reform/Terraform. Created custom tool suite for managing Terraform called Reform. Reform manages multiple environments, secrets, provides tooling for missing terraform features like templates, feature flags, loops etc (Some of this has since been added in terraform 0.12). Created universal CICD pipeline for company to manage all products. Regularly train engineers on design principles and peer review their code to make it better. Also responsible for tracking, and patching all security vulnerabilities in company & 3rd party code. In addition I also made,",
       "highlights": [
-        "Developed an OpenSource terraform management toolkit https://github.com/analogrithems/reform",
-        "Designed and built all CICD pipelines with custom framework",
-        "Developed tightly scoped roles for each service",
-        "Setup all montoring and stat collection services",
-        "Trained engineers on best practices; regularly gave presentations and hands-on workshops",
-        "Insured entire cloud infrastructure used encryption for at rest and in transit data",
-        "Led migration to ECS from Kubernetes to better meet companies goals and better integrate with AWS Cloud services"
+        "Custom tooling around Jira project management",
+        "ECS/Docker management tooling",
+        "Ansible playbooks",
+        "Developer tooling for engineers",
+        "Training guides and workshops for engineers",
+        "AWS Lambdas for devops automation"
       ]
     },
     {
