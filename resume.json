@@ -3,7 +3,7 @@
   "basics": {
     "name": "Aaron Collins",
     "label": "Developer, Security, Operations Engineer",
-    "picture": "https://lh3.googleusercontent.com/VolhpuJT7IQQYNM2ThFtycPwyqe1IryvW9rsGxCYRxxdsb0YhvY9Vnsu8hWlfFzSk-sbfCcq7NxNFDQ=w352-h352-n-o-rw",
+    "picture": "https://raw.githubusercontent.com/analogrithems/analogrithems.github.io/master/me.jpeg",
     "email": "aaron.collinsa@gmail.com",
     "phone": "(808) 203-8756",
     "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. pipelines or auditing security and training other engineers best practices.",
