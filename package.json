@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/resume-cli/index.js test",
-    "exportHTML": "./node_modules/resume-cli/index.js export index.html",
-    "exportPDF": "./node_modules/resume-cli/index.js export acollins.pdf"
+    "exportHTML": "./node_modules/resume-cli/index.js export --theme elegant index.html",
+    "exportPDF": "./node_modules/resume-cli/index.js export --theme elegant acollins.pdf"
   },
   "repository": {
     "type": "git",
