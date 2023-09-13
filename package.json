@@ -20,6 +20,7 @@
   "author": "aaron collins",
   "license": "MIT",
   "dependencies": {
-    "resume-cli": "1.2.4"
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.0.0"
   }
 }

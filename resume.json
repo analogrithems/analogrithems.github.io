@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Aaron Collins",
     "label": "Developer, Security, Operations Engineer",
@@ -37,7 +38,6 @@
       "position": "Sr. Staff DevOps Engineer",
       "website": "https://www.mya.com",
       "startDate": "2018-04-30",
-      "endDate": "Current",
       "summary": "Designed entire cloud infrastructure with Reform/Terraform. Created custom tool suite for managing Terraform called Reform. Reform manages multiple environments, secrets, provides tooling for missing terraform features like templates, feature flags, loops etc (Some of this has since been added in terraform 0.12). Created universal CICD pipeline for company to manage all products. Regularly train engineers on design principles and peer review their code to make it better. Also responsible for tracking, and patching all security vulnerabilities in company & 3rd party code. In addition I also made,",
       "highlights": [
         "Custom tooling around Jira project management",
