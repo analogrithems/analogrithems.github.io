@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "analogrithems",
-        "url": ""
-      },
-      {
         "network": "Github",
         "username": "analogrithems",
         "url": "https://github.com/analogrithems"
