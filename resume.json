@@ -1,5 +1,5 @@
 {
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "macchiato" },
   "basics": {
     "name": "Aaron Collins",
     "label": "Developer, Security, Operations Engineer",
@@ -201,17 +201,19 @@
         "Terraform",
         "Chef",
         "Puppet",
-        "Frycook",
+        "Ansible",
         "Cloudformation",
-        "Jenkins",
-        "Rundeck"
+        "Jenkins"
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Development",
       "level": "Senior",
       "keywords": [
-        "HTML",
+        "C",
+        "C++",
+        "Perl",
+        "PHP",
         "Javascript / Ecmascript",
         "Python",
         "PHP"
@@ -247,7 +249,7 @@
         "Amazon Web Services (Certified)",
         "Google Compute Engine",
         "VMWare",
-        "Heroku"
+        "Azure"
       ]
     },
     {
@@ -276,14 +278,6 @@
         "ZWave",
         "Zigbee",
         "Sonoff"
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
-        "Tensorflow",
-        "Fast.ai",
-        "Convolutional neural networks"
       ]
     }
   ],

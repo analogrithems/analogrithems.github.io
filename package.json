@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/resume-cli/index.js test",
-    "exportHTML": "./node_modules/resume-cli/index.js export --theme elegant index.html",
-    "exportPDF": "./node_modules/resume-cli/index.js export --theme elegant acollins.pdf"
+    "exportAll": "./node_modules/resume-cli/index.js export --theme macchiato index.html && ./node_modules/resume-cli/index.js export --theme macchiato acollins.pdf",
+    "exportHTML": "./node_modules/resume-cli/index.js export --theme macchiato index.html",
+    "exportPDF": "./node_modules/resume-cli/index.js export --theme macchiato acollins.pdf"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-macchiato": "^1.1.0",
     "resume-cli": "^3.0.0"
   }
 }
