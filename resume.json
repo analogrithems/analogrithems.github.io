@@ -299,12 +299,16 @@
   ],
   "references": [
     {
-      "name": "Tim Galyean <timg@chegg.com>",
+      "name": "Tim Galyean <tim.o.gray@gmail.com>",
       "reference": "Sr. Devops Engineer & Sr. Security Engineer at Chegg"
     },
     {
       "name": "Alex Boatwright <drdelambre@gmail.com>",
       "reference": "Lead Developer / Co-Worker for ActivityRez"
+    },
+    {
+      "name": "Boyd Ako <boyd.hanalei.ako@gmail.com>",
+      "reference": "Linux System Engineer/Architect at Agile Defense!"
     },
     {
       "name": "Patrick Leonard <dreamtear@gmail.com>",
