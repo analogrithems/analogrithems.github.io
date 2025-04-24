@@ -2,11 +2,11 @@
   "meta": { "theme": "macchiato" },
   "basics": {
     "name": "Aaron Collins",
-    "label": "Developer, Security, Operations Engineer",
+    "label": "AI/ML Infrastructure Architect & DevSecOps Leader",
     "picture": "https://raw.githubusercontent.com/analogrithems/analogrithems.github.io/master/me.jpeg",
     "email": "aaron.collinsa@gmail.com",
     "phone": "(808) 203-8756",
-    "summary": "I have 20 years of experience in programming, security, operations and release engineering.  As an early cloud adopter, I’ve learned, the amount of services I manage increases to infinite possibilities.  Using containers, I’ve changed my mental model of what a task is.  I strive to make all scripts, jobs and apps run out of a container to achieve my goal of sleeping all night. Since all tasks should now be run from a container most of my time is now spent creating configurations to building C.I.C.D. pipelines or auditing security and training other engineers best practices.",
+    "summary": "With 30 years of experience spanning AI/ML infrastructure, security, and DevOps engineering, I've established myself as a pioneer in containerized deployment architectures for machine learning systems. As an early cloud adopter, I've mastered multi-cloud environments (AWS, Azure, GCP, OCI, OpenShift) and developed enterprise-grade infrastructure for AI-driven applications. I specialize in creating secure, compliant, and scalable platforms that enable ML engineers to deploy models efficiently. My expertise includes implementing GitOps/MLOps workflows, achieving compliance certifications (SOC2, HIPAA, GDPR), and building robust CI/CD pipelines with comprehensive security scanning for containerized ML deployments.",
     "location": {
       "address": "47-531 Waipaipai St.",
       "postalCode": "96744",
@@ -30,16 +30,19 @@
   "work": [
     {
       "company": "YurtsAi",
-      "position": "Sr.  DevOps Engineer",
+      "position": "Sr. DevSecOps Engineer & ML Infrastructure Architect",
       "website": "https://www.yurts.ai",
       "startDate": "2023-12-20",
-      "summary": "Designed entire cloud infrastructure with Reform/Terraform for AWS & OCI using Kubernetes & GPU's only. ",
+      "summary": "Lead architect for enterprise-grade ML infrastructure spanning multiple cloud providers (AWS, Azure, GCP, OCI, OpenShift). Implemented secure, compliant deployment pipelines for ML models while driving the organization through multiple compliance certifications.",
       "highlights": [
-        "Designed new terraform & grafana based monitoring system",
-        "Built tooling around GitOps & MLOps.",
-        "Created tooling to manage our vector DB Qdrant https://github.com/analogrithems/qdrant-cli",
-        "Ansible management playbooks",
-        "Training guides and workshops for engineers"
+        "Created highly configurable multi-cloud (AWS, Azure, GCP, OCI, OpenShift) Kubernetes configurations for seamless ML model deployment",
+        "Led company to SOC2, HIPAA, and GDPR certification by establishing comprehensive compliance policies and frameworks",
+        "Designed and implemented robust Backup and Restore framework for critical ML data and models",
+        "Established CI/CD pipelines with integrated security scanning (vulnerability, container, and static code analysis) for containerized ML deployments",
+        "Created tooling to manage vector database (Qdrant) for efficient ML operations: https://github.com/analogrithems/qdrant-cli",
+        "Developed comprehensive documentation and conducted regular training sessions for engineering teams on ML infrastructure best practices",
+        "Designed and implemented Terraform & Grafana-based monitoring system for ML workloads",
+        "Built advanced tooling around GitOps & MLOps to streamline model deployment workflows"
       ]
     },
     {
@@ -211,72 +214,90 @@
   "publications": [],
   "skills": [
     {
-      "name": "Devops",
+      "name": "ML Infrastructure",
+      "level": "Master",
+      "keywords": [
+        "ML Model Deployment",
+        "Vector Databases",
+        "GPU Infrastructure",
+        "MLOps",
+        "Model Serving",
+        "ML Monitoring"
+      ]
+    },
+    {
+      "name": "DevSecOps",
       "level": "Master",
       "keywords": [
         "Terraform",
-        "Chef",
-        "Puppet",
         "Ansible",
-        "Cloudformation",
-        "Jenkins"
+        "GitOps",
+        "Infrastructure as Code",
+        "Compliance Automation",
+        "Security Scanning"
+      ]
+    },
+    {
+      "name": "Multi-Cloud Architecture",
+      "level": "Master",
+      "keywords": [
+        "AWS (Certified)",
+        "Azure",
+        "GCP",
+        "OCI (Oracle Cloud)",
+        "OpenShift",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "name": "Containerization",
+      "level": "Master",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "ECS",
+        "GKE",
+        "AKS",
+        "OKE",
+        "Container Security"
+      ]
+    },
+    {
+      "name": "Security & Compliance",
+      "level": "Master",
+      "keywords": [
+        "SOC2",
+        "HIPAA",
+        "GDPR",
+        "Vulnerability Management",
+        "Container Scanning",
+        "Static Code Analysis",
+        "PCI/DSS"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Master",
+      "keywords": [
+        "Jenkins",
+        "GitLab CI",
+        "GitHub Actions",
+        "ArgoCD",
+        "Tekton",
+        "Automated Testing",
+        "Release Management"
       ]
     },
     {
       "name": "Development",
       "level": "Senior",
       "keywords": [
-        "C",
-        "C++",
-        "Perl",
-        "PHP",
-        "Javascript / Ecmascript",
         "Python",
-        "PHP"
-      ]
-    },
-    {
-      "name": "Security",
-      "level": "Master",
-      "keywords": [
-        "Vulnerability Scanning",
-        "Pen Testing",
-        "PCI, HIPAA, SOX Certification"
-      ]
-    },
-    {
-      "name": "Release Engineer",
-      "level": "Senior",
-      "keywords": [
-        "Gradle",
-        "Ant",
-        "Maven",
-        "Grunt",
-        "Composer",
-        "C.I.C.D. (Jenkins, Gitlab, Travis Ci, Rundeck)",
-        "Make",
-        "QMake"
-      ]
-    },
-    {
-      "name": "Cloud Architect",
-      "level": "Senior",
-      "keywords": [
-        "Amazon Web Services (Certified)",
-        "Google Compute Engine",
-        "VMWare",
-        "Azure"
-      ]
-    },
-    {
-      "name": "Containerization",
-      "level": "Senior",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "ECS",
-        "GKE",
-        "Nomad"
+        "Go",
+        "C/C++",
+        "JavaScript/TypeScript",
+        "Infrastructure Automation",
+        "API Development"
       ]
     }
   ],
