@@ -4,10 +4,10 @@
   "description": "Personal resume for aaron collins",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/resume-cli/index.js test",
-    "exportAll": "./node_modules/resume-cli/index.js export --theme macchiato index.html && ./node_modules/resume-cli/index.js export --theme macchiato acollins.pdf",
-    "exportHTML": "./node_modules/resume-cli/index.js export --theme macchiato index.html",
-    "exportPDF": "./node_modules/resume-cli/index.js export --theme macchiato acollins.pdf"
+    "test": "./node_modules/resume-cli/build/main.js test",
+    "exportAll": "./node_modules/resume-cli/build/main.js export --theme macchiato index.html && ./node_modules/resume-cli/build/main.js export --theme macchiato acollins.pdf",
+    "exportHTML": "./node_modules/resume-cli/build/main.js export --theme macchiato index.html",
+    "exportPDF": "./node_modules/resume-cli/build/main.js export --theme macchiato acollins.pdf"
   },
   "repository": {
     "type": "git",
