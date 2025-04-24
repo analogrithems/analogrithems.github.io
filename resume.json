@@ -8,8 +8,6 @@
     "phone": "(808) 203-8756",
     "summary": "With 30 years of experience spanning AI/ML infrastructure, security, and DevOps engineering, I've established myself as a pioneer in containerized deployment architectures for machine learning systems. As an early cloud adopter, I've mastered multi-cloud environments (AWS, Azure, GCP, OCI, OpenShift) and developed enterprise-grade infrastructure for AI-driven applications. I specialize in creating secure, compliant, and scalable platforms that enable ML engineers to deploy models efficiently. My expertise includes implementing GitOps/MLOps workflows, achieving compliance certifications (SOC2, HIPAA, GDPR), and building robust CI/CD pipelines with comprehensive security scanning for containerized ML deployments.",
     "location": {
-      "address": "47-531 Waipaipai St.",
-      "postalCode": "96744",
       "city": "Kaneohe",
       "countryCode": "US",
       "region": "Hawaii"
@@ -293,7 +291,7 @@
       "level": "Senior",
       "keywords": [
         "Python",
-        "Go",
+        "Rust",
         "C/C++",
         "JavaScript/TypeScript",
         "Infrastructure Automation",
